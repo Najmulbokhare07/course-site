@@ -1,0 +1,37 @@
+.carousel-written {
+    color: white;
+    text-align: center;
+    padding: 140px 0;
+
+}
+
+.big-write {
+    font-size: 90px;
+    font-weight: 700;
+}
+
+.small-write {
+    font-size: 20px;
+}
+
+.new-course {
+    text-align: center;
+    margin-top: 90px;
+    padding: 30px 600px;
+}
+
+.course-part {
+    display: flex;
+    justify-content: center;
+
+}
+
+.hlfprt {
+    margin-right: 25px;
+}
+
+.button {
+    text-align: center;
+    margin-top: 20px;
+    padding: 8px 15px;
+}
